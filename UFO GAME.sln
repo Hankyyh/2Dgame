@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO GAME", "Assembly-CSharp.csproj", "{896A46B4-3726-077A-1974-4800DA76C775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFO GAME", "Assembly-CSharp-Editor.csproj", "{4CCF78F8-A4A2-5E0C-6AE8-76CEBBAEC91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896A46B4-3726-077A-1974-4800DA76C775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896A46B4-3726-077A-1974-4800DA76C775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896A46B4-3726-077A-1974-4800DA76C775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896A46B4-3726-077A-1974-4800DA76C775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCF78F8-A4A2-5E0C-6AE8-76CEBBAEC91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCF78F8-A4A2-5E0C-6AE8-76CEBBAEC91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCF78F8-A4A2-5E0C-6AE8-76CEBBAEC91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCF78F8-A4A2-5E0C-6AE8-76CEBBAEC91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
